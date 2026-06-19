@@ -1,3 +1,38 @@
 h1 {
     color: red;
 }
+
+#heading2 {
+    color: rgb(73, 73, 215);
+}
+
+.heading {
+    color: rgb(165, 73, 215);
+}
+
+body{
+    margin: 0px;
+}
+.para {
+    border: 2px;
+    border-style: solid;
+    border-color:rgb(187, 170, 57);
+    padding: 10px;
+    text-align: center;
+}
+
+.nav {
+
+    padding: 10px;
+    background-color: rgb(155, 59, 59);
+    text-align: center;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.nav a:hover {
+    background-color: rgb(188, 108, 108);
+}
