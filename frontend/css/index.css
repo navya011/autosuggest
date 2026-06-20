@@ -41,6 +41,8 @@ body{
     width: 300px;
     border: 1px solid black;
     text-align: center;
+    margin: auto;
+    margin-top: 10px;
 }
 
 .card img{
